@@ -1,0 +1,9 @@
+{
+  "name": "slate-analytics",
+  "version": "1.0.0",
+  "description": "An empty module, used to avoid Shopify tracking you while using Slate.",
+  "main": "index.js",
+  "repository": "git@github.com:nuc/slate-analytics.git",
+  "author": "Georgios Giannoutsos Barkas <contact@nuc.gr>",
+  "license": "MIT"
+}
